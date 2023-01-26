@@ -35,7 +35,7 @@ Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. T
 <img width="575" alt="Kuva2" src="https://user-images.githubusercontent.com/122889266/214776365-7a73cbcc-d581-4065-8658-cfcc8a74ef46.png">
 
 
-
+<img width="612" alt="Screenshot 2023-01-26 at 9 15 59" src="https://user-images.githubusercontent.com/122889266/214778066-74c123f7-f852-4a5b-8790-c97f79839dd6.png">
 
 
 
