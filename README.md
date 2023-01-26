@@ -38,7 +38,7 @@ Ohjelma käyttää lisenssiä MIT. Tämä lisenssi jäi hieman epäselväksi, et
 
 Säännölliset lausekkeet
 
-Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. Tein tätä tehtävää varten harjoitus.txt tiedoston, jossa on listattuna keksittyjä sanoja. Tästä tiedostosta etsin säännöllisiä lausekkeita. Aluksi etsin tiedostosta sanoja, jotka alkoivat kirjaimella E ja päättyivät kirjaimeen ä. Näiden välillä oleva piste tarkoittaa, että kirjainten e ja ä välillä etsitään yhtä kirjainta. Tämän jälkeen etsin sanoja, jotka alkavat kirjaimella E ja loppuvat kirjaimeen ä ja joiden välillä on kaksi kirjainta. Alla kuvassa tarkemmin käyttämäni komennot ja saamani tulokset.
+Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. Tein tätä tehtävää varten harjoitus.txt tiedoston, jossa on listattuna keksittyjä sanoja. Tästä tiedostosta etsin säännöllisiä lausekkeita. Aluksi etsin tiedostosta merkkijonoja, jotka alkoivat kirjaimella E ja päättyivät kirjaimeen ä. Näiden välillä oleva piste tarkoittaa, että kirjainten E ja ä välillä etsitään yhtä kirjainta. Tämän jälkeen etsin merkkijonoja, jotka alkavat kirjaimella E ja loppuvat kirjaimeen ä ja joiden välillä on kaksi kirjainta. Alla kuvassa tarkemmin käyttämäni komennot ja saamani tulokset.
 
 
 <img width="523" alt="Kuva1" src="https://user-images.githubusercontent.com/122889266/214775981-c6a94b95-a7d1-4c03-b1e8-08d73f58afd1.png">
