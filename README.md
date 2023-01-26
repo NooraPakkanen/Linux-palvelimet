@@ -67,6 +67,10 @@ Sen jälkeen yhdistin kaksi käskyä eli cat ja grep -komennot. Siten sain tulos
 <img width="697" alt="Screenshot 2023-01-26 at 9 27 41" src="https://user-images.githubusercontent.com/122889266/214780022-51776187-a77b-4510-a208-4bf915e83124.png">
 
 
+Tehtävä tehty Linux-palvelimet kurssin ohjeiden mukaan:
+
+h3 Vapaus! Karvinen, Tero. Linux palvelimet -kurssi 2023. Luettavissa: https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h3-vapaus. Luettu 25.1.2023
+
 
 
 
