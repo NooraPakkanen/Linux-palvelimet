@@ -12,7 +12,7 @@ Tiivistelmä
 
 
 Vapaa ohjelmisto tarkoittaa, että käyttäjillä on oikeus käyttää, kopioida, jakaa, opiskella, muuttaa ja parantaa koodia. 
-Vapaa ohjelmisto ei ole sama kuin ilmainen ilmainen ohjelmisto.
+Vapaa ohjelmisto ei ole sama kuin ilmainen ohjelmisto.
 
 
 
