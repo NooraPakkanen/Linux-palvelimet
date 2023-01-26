@@ -47,7 +47,7 @@ Pipe komennon avulla voidaan yhdistää kaksi tai useampia komentoja. Loin täh�
 
 <img width="704" alt="Kuva4" src="https://user-images.githubusercontent.com/122889266/214776498-478b23fe-b301-4928-a5d8-46dc17db0809.png">
 
-<img width="628" alt="Kuva5" src="https://user-images.githubusercontent.com/122889266/214776515-fd0170b4-1015-4139-81b8-e58ddef847fc.png">
+
 
 
 
