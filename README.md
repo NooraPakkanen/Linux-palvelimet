@@ -1,5 +1,10 @@
 # Harjoitus 3
 
+Tein harjoituksen omalla MacBook Pro kotikoneellani.
+Käyttöjärjestelmänä on MacOs Catalina.
+Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 15.50.
+
+
 Tiivistelmä
 
 Vapaa ohjelmisto tarkoittaa, että käyttäjillä on oikeus käyttää, kopioida, jakaa, opiskella, muuttaa ja parantaa koodia. 
