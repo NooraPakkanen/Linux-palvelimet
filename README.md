@@ -5,10 +5,13 @@ Käyttöjärjestelmänä on MacOs Catalina.
 Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 15.50.
 
 
+
 Tiivistelmä
+
 
 Vapaa ohjelmisto tarkoittaa, että käyttäjillä on oikeus käyttää, kopioida, jakaa, opiskella, muuttaa ja parantaa koodia. 
 Vapaa ohjelmisto ei ole sama kuin ilmainen ilmainen ohjelmisto.
+
 
 
 
@@ -29,6 +32,8 @@ Ohjelman lisenssin tiedot löytyivät sivulta: http://cowlark.com/wordgrinder/in
 
 Ohjelma käyttää lisenssiä MIT. Tämä lisenssi jäi hieman epäselväksi, että mitä se tarkoittaa. Ilmeisesti lisenssi ei ole copyleft lisenssi, jolloin koodia voidaan käyttää myös suljetun lähdekoodin ohjelmistoissa. Käyttäjillä on kuitenkin oikeus käyttää, muokata ja kopioida teosta. Lisenssi luokitellaan vapaaksi. Tiedot lisenssin vapaudesta on tarkistettu nettisivuilta: https://www.gnu.org/licenses/license-list.html.
 
+
+
 Säännölliset lausekkeet
 
 Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. Tein tätä tehtävää varten harjoitus.txt tiedoston, jossa on listattuna keksittyjä sanoja. Tästä tiedostosta etsin säännöllisiä lausekkeita. Aluksi etsin tiedostosta sanoja, jotka alkoivat kirjaimella E ja päättyivät kirjaimeen ä. Näiden välillä oleva piste tarkoittaa, että kirjainten e ja ä välillä etsitään yhtä kirjainta. Tämän jälkeen etsin sanoja, jotka alkavat kirjaimella E ja loppuvat kirjaimeen ä ja joiden välillä on kaksi kirjainta. Alla kuvassa tarkemmin käyttämäni komennot ja saamani tulokset.
@@ -44,6 +49,8 @@ Seuraavaksi kokeilin hakea tiedostosta sanoja, jotka alkavat kirjaimella c ja p�
 Lisäksi kokeilin vielä hakea komennolla grep lukuja väliltä 0-9. Alla kuvassa saamani tulokset ja käyttämäni komennot.
 
 <img width="612" alt="Screenshot 2023-01-26 at 9 15 59" src="https://user-images.githubusercontent.com/122889266/214778066-74c123f7-f852-4a5b-8790-c97f79839dd6.png">
+
+
 
 Pipe
 
