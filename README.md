@@ -35,6 +35,12 @@ Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. T
 <img width="575" alt="Kuva2" src="https://user-images.githubusercontent.com/122889266/214776365-7a73cbcc-d581-4065-8658-cfcc8a74ef46.png">
 
 
+Pipe
+
+Pipe komennon avulla voidaan yhdistää kaksi tai useampia komentoja. Loin tähän tehtävään esimerkkitiedoston hedelmat.txt, jossa on listattuna eri hedelmiä. Aluksi selvitin tiedoston sisällön cat-komennolla, jolloin tiedoston sisältö tulostui ruudulle. Sen jälkeen yhdistin kaksi käskyä eli cat ja grep -komennot. Siten sain tulostettua tiedostosta tietyn sanan. Toisessa esimerkissä yhdistin käskyt cat ja sort pipen avulla. Sain siten järjestettyä tiedoston sanat aakkosjärjestykseen. 
+
+
+
 <img width="730" alt="Kuva3" src="https://user-images.githubusercontent.com/122889266/214776476-25ce5455-4ccd-4d55-b31d-d3f6874e3cee.png">
 
 
