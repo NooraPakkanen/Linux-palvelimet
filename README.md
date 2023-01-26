@@ -2,7 +2,7 @@
 
 Tein harjoituksen omalla MacBook Pro kotikoneellani.
 Käyttöjärjestelmänä on MacOs Catalina.
-Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 15.50.
+Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 16.20.
 Prosessori koneessani on 2,6 GHz Dual-Core Intel Core i5.
 Virtualboxin versio on 7.0.6.
 
