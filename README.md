@@ -1,7 +1,7 @@
 # Harjoitus 3
 
 Tein harjoituksen omalla MacBook Pro kotikoneellani.
-Käyttöjärjestelmänä on MacOs Catalina.
+Käyttöjärjestelmänä on MacOs Monterey.
 Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 15.50.
 Prosessori koneessani on 2,6 GHz Dual-Core Intel Core i5.
 Virtualboxin versio on 7.0.6.
