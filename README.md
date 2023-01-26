@@ -1,7 +1,7 @@
 # Harjoitus 3
 
 Tein harjoituksen omalla MacBook Pro kotikoneellani.
-Käyttöjärjestelmänä on MacOs Monterey.
+Käyttöjärjestelmänä on MacOs Catalina.
 Aloitin harjoituksen 25.1.2023 klo 13.07 ja lopetin klo 15.50.
 Prosessori koneessani on 2,6 GHz Dual-Core Intel Core i5.
 Virtualboxin versio on 7.0.6.
@@ -38,12 +38,12 @@ Ohjelma käyttää lisenssiä MIT. Tämä lisenssi jäi hieman epäselväksi, et
 
 Säännölliset lausekkeet
 
-Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. Tein tätä tehtävää varten harjoitus.txt tiedoston, jossa on listattuna keksittyjä sanoja. Tästä tiedostosta etsin säännöllisiä lausekkeita. Aluksi etsin tiedostosta merkkijonoja, jotka alkoivat kirjaimella E ja päättyivät kirjaimeen ä. Näiden välillä oleva piste tarkoittaa, että kirjainten E ja ä välillä etsitään yhtä kirjainta. Tämän jälkeen etsin merkkijonoja, jotka alkavat kirjaimella E ja loppuvat kirjaimeen ä ja joiden välillä on kaksi kirjainta. Alla kuvassa tarkemmin käyttämäni komennot ja saamani tulokset.
+Grep komennon avulla voidaan etsiä tiedostoista säännöllisiä lausekkeita. Tein tätä tehtävää varten harjoitus.txt tiedoston, jossa on listattuna keksittyjä sanoja. Tästä tiedostosta etsin säännöllisiä lausekkeita. Aluksi etsin tiedostosta merkkijonoja, jotka alkoivat kirjaimella E ja päättyivät kirjaimeen ä. Näiden välillä oleva piste tarkoittaa, että merkkien E ja ä välillä etsitään yhtä merkkiä. Tämän jälkeen etsin merkkijonoja, jotka alkavat kirjaimella E ja loppuvat kirjaimeen ä ja joiden välillä on kaksi kirjainta. Alla kuvassa tarkemmin käyttämäni komennot ja saamani tulokset.
 
 
 <img width="523" alt="Kuva1" src="https://user-images.githubusercontent.com/122889266/214775981-c6a94b95-a7d1-4c03-b1e8-08d73f58afd1.png">
 
-Seuraavaksi kokeilin hakea tiedostosta sanoja, jotka alkavat kirjaimella c ja päättyvät kirjaimeen t ja joiden välillä voi olla vokaaleja aeiou. Alla kuvassa käyttämäni komennot ja saamani tulokset. 
+Seuraavaksi kokeilin hakea tiedostosta merkkijonoja, jotka alkavat kirjaimella c ja päättyvät kirjaimeen t ja joiden välillä voi olla vokaaleja aeiou. Alla kuvassa käyttämäni komennot ja saamani tulokset. 
 
 
 <img width="575" alt="Kuva2" src="https://user-images.githubusercontent.com/122889266/214776365-7a73cbcc-d581-4065-8658-cfcc8a74ef46.png">
